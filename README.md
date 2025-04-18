@@ -17,5 +17,5 @@ A modular Python GUI application to manage personal finances using Tkinter and S
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-finance-tracker.git
+   git clone https://github.com/lindaninahumu/personal-finance-tracker.git
    cd personal-finance-tracker
